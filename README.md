@@ -10,8 +10,8 @@ gif效果图
 3、给买个View添加进入动画，每个比前一个延期50ms播放动画，关闭窗口时相反； <br /> 
 4、为View的动画添加回弹插值器； <br /> 
 
-关于动画说明参考：http://gqdy365.iteye.com/blog/2194297 <br /> 
 关于截屏并高斯模糊参考：http://gqdy365.iteye.com/blog/2193913<br /> 
+关于动画说明参考：http://gqdy365.iteye.com/blog/2194297 <br /> 
 
 [apk下载地址](https://github.com/gqdy365/WeiboPopupWindow/blob/master/bin/WeiboPopupWindow.apk)<br /> 
 
